@@ -4,6 +4,8 @@ Clown To Clown Comunication (Arch BTW)
 Initialization: Clown to Clown Communication...
 Using: Popi Popi Protocol...
 Wait: Auth User
+
+```Text
               o                                o       
       $ooo"$ o o                      o o $"ooo$       
    o"$ $o"$"$oo"$                    $"oo$"$"o$ $"o    
@@ -21,5 +23,6 @@ Wait: Auth User
                   "o "$ooooooo$" o"                    
                    "$o         o$"                     
                       ""ooooo""                        
+```
 
 Server Reached: YOU
