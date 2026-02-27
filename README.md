@@ -25,4 +25,5 @@ Wait: Auth User
                       ""ooooo""                        
 ```
 
-Server Reached: YOU
+Server Reached: YOU 
+DNS: [CLOWN.ORG](https://www.youtube.com/watch?v=mHJ3l18YqNM)
